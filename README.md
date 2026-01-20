@@ -1,4 +1,4 @@
-# 抖音群控系统 - TikTok Group Control System
+# 抖音群控系统 - DouYin Group Control System
 
 <div align="center">
 
