@@ -90,7 +90,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                      Web 管理后台                            │
-│              (Laravel 12.0 + Antd Design)                        │
+│              (Laravel 12.0 + Antd Design)                   │
 └──────────────────────┬──────────────────────────────────────┘
                        │ HTTP/HTTPS API
                        │ JWT 认证
@@ -171,10 +171,10 @@
 ### Android 客户端
 
 <div style="display: flex; justify-content: space-between;flex-wrap: wrap;row-gap: 16px;">
-    <img src="./images/android-1.png" style="width: 48%;">
-    <img src="./images/android-2.png" style="width: 48%;">
-    <img src="./images/android-3.png" style="width: 48%;">
-    <img src="./images/android-4.png" style="width: 48%;">
+    <img src="./images/android-1.png" style="width: 24%;">
+    <img src="./images/android-2.png" style="width: 24%;">
+    <img src="./images/android-3.png" style="width: 24%;">
+    <img src="./images/android-4.png" style="width: 24%;">
 </div>
 
 ---
