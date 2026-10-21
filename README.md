@@ -1,4 +1,5 @@
 # 抖音群控系统 - DouYin Group Control System
+<img src='https://home.deeke.top/Index/githubStatistic?name=github-ad-deeke-control' width=0 height=0 />
 
 <div align="center">
 
